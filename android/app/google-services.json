@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1038618721072",
+    "firebase_url": "https://trash-ec2ff.firebaseio.com",
+    "project_id": "trash-ec2ff",
+    "storage_bucket": "trash-ec2ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038618721072:android:a481c4770c717b4f3f26f5",
+        "android_client_info": {
+          "package_name": "com.example.trash_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038618721072-9un1c0d4d3nolkhase1anh8mdp200fn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrs3Q3ER7gGaTM5m_G6D_Hw7Dtqv5FlTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038618721072-9un1c0d4d3nolkhase1anh8mdp200fn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
